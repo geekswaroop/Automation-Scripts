@@ -1,4 +1,4 @@
-# Automating using Python
+# Automation Scripts in Python
 ## Description
 This repository contains implementations of automating various tasks using Python3
 ## Requirements
